@@ -1,0 +1,13 @@
+
+.navbarr
+{
+    display: flex;
+    font-family: Courier New, monospace;
+    font: bold;
+  bottom: 0px;
+    justify-content: space-around;
+    border: 2px solid white;
+   margin-right: auto;
+    margin-left: auto;
+   
+}
